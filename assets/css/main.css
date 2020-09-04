@@ -467,6 +467,7 @@ hr {
     height: 1300px;
     background-image: url("images/correo.PNG");
     background-size: 100% !important;
+	background-repeat: no-repeat;
 }
 
 .hideButton {
